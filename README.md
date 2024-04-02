@@ -42,7 +42,7 @@
 
 ### Решение 
 ![Alt text](https://github.com/temagraf/rsync/blob/main/3_33.png)
-
+![Alt text](https://github.com/temagraf/rsync/blob/main/3_34.png)
 
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
