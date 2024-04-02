@@ -41,7 +41,7 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
 
 ### Решение 
-![Alt text](https://github.com/temagraf/rsync/blob/main/rsync.png)
+![Alt text](https://github.com/temagraf/rsync/blob/main/3_33.png)
 
 
 ### Задание 2
