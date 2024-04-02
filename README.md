@@ -61,7 +61,7 @@ rsync -av --delete /home/temagraf/ /tmp/backup >> /var/log/cron.log
 ```
 - Скрин crontab
   
-![Alt text](https://github.com/temagraf/rsync/blob/main/crontab.png)
+![Alt text](https://github.com/temagraf/rsync/blob/main/crontabs.png)
 - Скрин логов
   
 ![Alt text](https://github.com/temagraf/rsync/blob/main/3.png)
