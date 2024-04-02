@@ -1,5 +1,4 @@
-# Домашнее задание к занятию 3 «Резервное копирование»
-# Шаяхметов Ринат
+# Домашнее задание к занятию 3 «Резервное копирование» - Яковлев Артем
 
 ### Цель задания
 В результате выполнения этого задания вы научитесь:
@@ -42,7 +41,7 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
 
 ### Решение 
-![Alt text](https://github.com/Rinat43/rsync/blob/main/rsync.png)
+![Alt text](https://github.com/temagraf/rsync/blob/main/rsync.png)
 
 
 ### Задание 2
@@ -62,9 +61,9 @@ rsync -av --delete /home/rinat/ /tmp/backup >> /var/log/cron.log
 ```
 - Скрин crontab
   
-![Alt text](https://github.com/Rinat43/rsync/blob/main/crontab.png)
+![Alt text](https://github.com/temagraf/rsync/blob/main/crontab.png)
 - Скрин логов
   
-![Alt text](https://github.com/Rinat43/rsync/blob/main/3.png)
+![Alt text](https://github.com/temagraf/rsync/blob/main/3.png)
 
 
