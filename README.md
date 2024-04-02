@@ -57,7 +57,7 @@
 ```
 
 #!/bin/sh
-rsync -av --delete /home/rinat/ /tmp/backup >> /var/log/cron.log
+rsync -av --delete /home/temagraf/ /tmp/backup >> /var/log/cron.log
 ```
 - Скрин crontab
   
